@@ -4,10 +4,10 @@ header {
 }
 
 .caixa {
-    width: 900px;
+    width: 9000px;
     margin: auto;
     position: relative;
-    border: 3px solid black;
+    border: 3px solid blue;
     border-radius: 20px;
 }
 
